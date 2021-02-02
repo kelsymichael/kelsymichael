@@ -1,4 +1,4 @@
-### Hi, my name is Kelsy 👋
+### 👋 Hi, my name is Kelsy.
 
 I like to think about `systems` and `design tools`.
 
