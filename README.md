@@ -1,5 +1,7 @@
-### 👋 Hi, my name is Kelsy.
+👋 Hi, my name is Kelsy.
 
-I like to think about `systems` and `design tools`.
+I'm a product designer who likes to think about `systems` and `communications`.
 
-💼️ [LinkedIn](https://www.linkedin.com/in/kelsygagnebin/)
+- 📝 [medium/@kelsy](https://medium.com/@kelsy)
+- 🎨 [figma/@kelsy](https://www.figma.com/@kelsy)
+- 😵‍💫 [linkedin](https://www.linkedin.com/in/kelsygagnebin/)
