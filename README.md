@@ -6,7 +6,7 @@ lately i've been sharing what i learn on [posts.cv/kelsy](https://posts.cv/kelsy
 
 took some time off of work to pause & reflect, i also happened to do that at the peak of the ux-bubble 🏄.
 
-it's been an interesting experience that has given me time to disconnect and observe the rapid generative ai advancements.
+it's given me time to disconnect and observe the rapid generative ai advancements.
 
 2024 is going to be wild, and i’m excited to see how society responds when ~everything digital can be gpt-shit-out with zero thought (grifters gonna grift).
 
