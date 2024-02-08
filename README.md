@@ -1,13 +1,13 @@
 👋 hi, my name is kelsy.
 
-i like thinking about `systems` and how things relate.
+i like thinking about `systems`, how things relate, & the fluid concept of 'value'.
 
-lately i've been sharing what i learn on [posts.cv/kelsy](https://posts.cv/kelsy).
+lately i've been sharing what i learn on [posts.cv/kelsy](https://posts.cv/kelsy), and slowly making [kelsy.design](https://kelsy.design) less-shit (i prefer working on real problems with a cross-functional team versus trying to talk about past projects, especially with the rapid rise of ai-workflows).
 
-i've taken some time off of work to pause & reflect, i also happened to do that at the peak of the ux-bubble 🏄.
+took some time off of work to pause & reflect, i also happened to do that at the peak of the ux-bubble 🏄.
 
 it's been an interesting experience that has given me time to disconnect and observe the rapid generative ai advancements.
 
-i believe that people are going to pause and reflect on their 'whys', because i assure you, the ability to generate { whatever } with minimal thought + effort will impact everyone who 'does stuff on the comptuer'.
+2024 is going to be wild, and i’m excited to see how society responds when ~everything digital can be gpt-shit-out with zero thought (grifters gonna grift).
 
-2024 is going to be interesting, and i'm excited to take it one day at a time.
+trust, transparency, and the value of human-made are a few things front of my mind.
